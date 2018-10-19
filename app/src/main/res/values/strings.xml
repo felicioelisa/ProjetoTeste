@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjetoTeste</string>
+    <string name="et_login">Digite seu login</string>
+    <string name="et_senha">Digite seu senha</string>
+    <string name="t2_et_CPF">Digite seu CPF</string>
+    <string name="t2_et_codigo">Digite seu código</string>
+</resources>
